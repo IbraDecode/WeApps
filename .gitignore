@@ -1,1 +1,15 @@
-app/build/
+# Android/IntelliJ
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+
+# Log/Cache
+*.log
+.cache/
+captures/
+
+# Keystore
+*.jks
+*.keystore
