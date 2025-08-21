@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "153685230969",
+    "firebase_url": "https://sira-chat-2011-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sira-chat-2011",
+    "storage_bucket": "sira-chat-2011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153685230969:android:862471f7fae8ac03bd5ba8",
+        "android_client_info": {
+          "package_name": "we.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaig4ctoRDabKWdCmvetlbAsNwDxMYqLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
